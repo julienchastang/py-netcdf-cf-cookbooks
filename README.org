@@ -1,0 +1,11 @@
+** Python NetCDF CF Cookbooks
+
+Cookbooks presented as IPython Notebooks to generate CF compliant netCDF files.
+
+**** Cookbooks
+
+|---+------------+------------------|
+|   | Cookbook   | IPython Notebook |
+|---+------------+------------------|
+| 1 | [[http://nbviewer.ipython.org/urls/raw.github.com/julienchastang/py-netcdf-cf-cookbooks/master/traj.ipynb][Trajectory]] | traj             |
+|---+------------+------------------|
